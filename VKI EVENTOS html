@@ -3,6 +3,7 @@
  <head>
      <meta charset="UTF-8">
      <title>vki eventos</title>
+     <link rel="stylesheet"href="style.css">
  </head>
  <body>
      <h1 style="text-align: center; ">SOBRE A VKI EVENTOS</h1>
